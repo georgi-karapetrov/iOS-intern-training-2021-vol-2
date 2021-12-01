@@ -1,4 +1,4 @@
-# iOS Crash Course vol. 1
+# iOS Crash Course vol. 2
 
 Greetings, intern. Time to earn your worth and learn a thing or two about life. This is in no way an easy task. Luckily, I am here to guide your way into glory. Well, into creating cool mobile apps on [The Best Mobile Platform To Date™](https://www.apple.com/ios/) at least. Everybody needs to start somewhere. For you, this series of task documents will be it.
 
