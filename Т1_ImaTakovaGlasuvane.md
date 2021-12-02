@@ -43,7 +43,7 @@ Objective C осигурява мощни и удобни колекции: `NSA
 ## Какво да използвате
 Основният екран на приложението трябва да бъде [UITableViewController](https://developer.apple.com/documentation/uikit/uitableviewcontroller?changes=_6&language=objc). Много добър туториъл можете да намерите [тук](https://www.appcoda.com/ios-programming-tutorial-create-a-simple-table-view-app/). За да удостоверите, че потребителят пълнолетен, използвайте прост [UIAlertController](https://developer.apple.com/documentation/uikit/uialertcontroller?changes=_4&language=objc). Ако потребителят се окаже непълнолетен, може да крашнете приложението, или да проявите творчество. :)
 Съхранявайте резултатите от гласуването в [NSUserDefaults](https://developer.apple.com/documentation/foundation/nsuserdefaults).
-*Protip: Можете да набутате гласуването и резултатите от гласуването в един и същ екран, все пак хората няма да бъдат пристратни.*
+*Protip: Можете да набутате гласуването и резултатите от гласуването в един и същ екран, все пак хората няма да бъдат пристрастни.*
 
 ## ♫ 7-8 и ще си паднала... ♫
 *[Но не съм казал, че ние не сме :)](https://imgur.com/a/NJgiRDB)*
