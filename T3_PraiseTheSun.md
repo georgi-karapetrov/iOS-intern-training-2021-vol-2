@@ -23,7 +23,7 @@ An important part of your task is to investigate how the dictionary data is stor
 Just like in the [previous task](https://github.com/georgi-karapetrov/iOS-intern-training-2021/blob/main/%D0%A22_ShikShakShok.md), do not couple any of the dictionary logic with the UI. It should be easier this time around as now you have personal experience to rely on.
 
 # Dealing with nostalgia
-Have you ever had a phone with a physical keyboard? Well, some of [us dinosaurs](https://media.gettyimages.com/photos/grumpy-oldfart-or-dissatisfied-displeased-old-man-isolated-portrait-picture-id1168014421?s=612x612) have! Our trembling old fingers are not used to typing on a **QWERTY** keyboard, especially when it's on a small phone screen. So, on behalf of the older part of the population, I implore, prithee do us favour and add a [multi-tap texting](https://en.wikipedia.org/wiki/Telephone_keypad) input as an option.
+Have you ever had a phone with a physical keyboard? Well, some of [us dinosaurs](https://ca.slack-edge.com/T03UCVDN2-U0CAAV0KB-6fba434e73a7-512) have! Our trembling old fingers are not used to typing on a **QWERTY** keyboard, especially when it's on a small phone screen. So, on behalf of the older part of the population, I implore, prithee do us favour and add a [multi-tap texting](https://en.wikipedia.org/wiki/Telephone_keypad) input as an option.
 
 ## Dic-ception
 If you are not familiar with keypad texting, you are most certainly unfamiliar with [T9](https://en.wikipedia.org/wiki/T9_(predictive_text)) as well. In all fairness, I do not know anybody who has actually ever used it, but I only know a couple of hundred people, so the point of having it is still valid. Your task is to add T9 predictive text capabilities to the custom input field.
